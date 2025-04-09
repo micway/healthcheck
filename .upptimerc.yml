@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Micway Services Status
   # introTitle: ""
-  introMessage: "Here you'll find real-time updates on the health of the Micway applications, APIs, databases, and 3rd party services."
+  introMessage: "Here you'll find real-time updates on the health of all Micway applications and 3rd party services."
   navbar:
     - title: Status
       href: /
