@@ -3,6 +3,8 @@ owner: micway # Your GitHub organization or username, where this repository live
 repo: healthcheck # The name of this repository
 
 sites:
+  - name: Pallet Loader API
+    url: $PALLET_LOADER_API_URL
   - name: Google
     url: https://www.google.com
   - name: IPv6 test
@@ -18,13 +20,11 @@ status-website:
   # baseUrl: /healthcheck
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Micway Services Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Here you'll find real-time updates on the health of the Micway applications, APIs, databases, Outlook integration, and more. We monitor everything 24/7 to keep your experience smooth and reliable."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
