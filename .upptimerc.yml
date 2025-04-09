@@ -3,11 +3,19 @@ owner: micway # Your GitHub organization or username, where this repository live
 repo: healthcheck # The name of this repository
 
 sites:
-  - name: Pallet Loader API
+  - name: PALLET LOADER API
     url: $PALLET_LOADER_API_PROD_HEALTH_URL
     headers:
     - "x-functions-key: $PALLET_LOADER_API_PROD_KEY"
-  - name: Google
+  - name: OUTLOOK
+    url: https://outlook.office365.com
+  - name: MICROSOFT AUTHENTICATION
+    url: https://login.microsoftonline.com
+  - name: OFFICE 365
+    url: https://graph.microsoft.com
+  - name: AZURE
+    url: https://azure.status.microsoft
+  - name: GOOGLE
     url: https://www.google.com
 
 status-website:
