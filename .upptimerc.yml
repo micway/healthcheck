@@ -8,9 +8,11 @@ sites:
     headers:
     - "x-functions-key: $PALLET_LOADER_API_PROD_KEY"
   - name: OUTLOOK
-    url: https://outlook.office365.com
+    url: https://outlook.office365.com/owa/
   - name: MICROSOFT AUTHENTICATION
     url: https://login.microsoftonline.com
+    headers:
+    - "User-Agent: Micway-HealthCheck"
   - name: OFFICE 365
     url: https://graph.microsoft.com
   - name: AZURE
