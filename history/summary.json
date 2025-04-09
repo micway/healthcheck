@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
     "status": "up",
-    "uptime": "1.51%",
-    "uptimeDay": "1.51%",
-    "uptimeWeek": "1.51%",
-    "uptimeMonth": "1.51%",
-    "uptimeYear": "1.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 157,
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2025-04-09": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICROSOFT AUTHENTICATION",
