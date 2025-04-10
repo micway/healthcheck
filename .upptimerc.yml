@@ -3,10 +3,34 @@ owner: micway # Your GitHub organization or username, where this repository live
 repo: healthcheck # The name of this repository
 
 sites:
-  - name: PALLET LOADER API
+  - name: PALLET LOADER (API)
     url: $PALLET_LOADER_API_PROD_HEALTH_URL
     headers:
     - "x-functions-key: $PALLET_LOADER_API_PROD_KEY"
+  - name: TMS (Website)
+    url: $TMS_WEBSITE_PROD_URL
+  - name: TMS (API)
+    url: $TMS_API_PROD_HEALTH_URL
+  - name: TMS (SERVER)
+    check: "tcp-ping"
+    url: $TMS_IIS_SERVER_PROD
+    port: 3389
+  - name: TMS (DATABASE)
+    check: "tcp-ping"
+    url: $TMS_SQL_PROD
+    port: 1433
+  - name: BUNDY CLOCK (API)
+    url: $BUNDY_CLOCK_API_PROD_HEALTH_URL
+  - name: AMC INTEGRATION (API)
+    url: $AMC_INTEGRATION_API_PROD_HEALTH_URL
+  - name: TRACKING (SERVER)
+    check: "tcp-ping"
+    url: $TRACKING_SERVER_PROD
+    port: 22
+  - name: CRON REPORTS (API)
+    url: $CRON_API_PROD_HEALTH_URL
+  - name: MICWAY (Website)
+    url: https://www.micway.com.au
   - name: OUTLOOK
     url: https://outlook.office365.com/owa/
     headers:
@@ -17,8 +41,6 @@ sites:
     url: https://graph.microsoft.com
   - name: AZURE
     url: https://azure.status.microsoft
-  - name: GOOGLE
-    url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
