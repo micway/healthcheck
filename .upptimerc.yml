@@ -11,11 +11,11 @@ sites:
     url: $TMS_WEBSITE_PROD_URL
   - name: TMS (API)
     url: $TMS_API_PROD_HEALTH_URL
-  - name: TMS (SERVER)
+  - name: TMS (Server)
     check: "tcp-ping"
     url: $TMS_IIS_SERVER_PROD
     port: 3389
-  - name: TMS (DATABASE)
+  - name: TMS (Database)
     check: "tcp-ping"
     url: $TMS_SQL_PROD
     port: 1433
@@ -23,7 +23,7 @@ sites:
     url: $BUNDY_CLOCK_API_PROD_HEALTH_URL
   - name: AMC INTEGRATION (API)
     url: $AMC_INTEGRATION_API_PROD_HEALTH_URL
-  - name: TRACKING (SERVER)
+  - name: TRACKING (Server)
     check: "tcp-ping"
     url: $TRACKING_SERVER_PROD
     port: 22
@@ -35,7 +35,7 @@ sites:
     url: https://outlook.office365.com/owa/
     headers:
     - "User-Agent: Micway-HealthCheck"
-  - name: MICROSOFT AUTHENTICATION
+  - name: MICROSOFT (Authentication)
     url: https://login.microsoftonline.com
   - name: OFFICE 365
     url: https://graph.microsoft.com
