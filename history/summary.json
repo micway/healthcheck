@@ -40,18 +40,20 @@
     "url": "$TMS_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tms-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1380,
-    "timeDay": 1388,
-    "timeWeek": 1361,
-    "timeMonth": 1380,
-    "timeYear": 1380,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1356,
+    "timeDay": 1185,
+    "timeWeek": 1313,
+    "timeMonth": 1356,
+    "timeYear": 1356,
+    "dailyMinutesDown": {
+      "2025-04-24": 4
+    }
   },
   {
     "name": "TMS (Server)",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 6,
+      "2025-04-24": 57,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -104,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 6,
+      "2025-04-24": 57,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -174,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-24": 6,
+      "2025-04-24": 57,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
