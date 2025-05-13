@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1222,
+      "2025-05-13": 1234,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -125,7 +125,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1222,
+      "2025-05-13": 1235,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -184,19 +184,19 @@
     "url": "$AMC_INTEGRATION_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amc-integration-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 979,
-    "timeDay": 962,
-    "timeWeek": 895,
-    "timeMonth": 994,
-    "timeYear": 979,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 971,
+    "timeDay": 899,
+    "timeWeek": 873,
+    "timeMonth": 984,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2025-05-13": 1
+      "2025-05-13": 12
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 1222,
+      "2025-05-13": 1235,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
