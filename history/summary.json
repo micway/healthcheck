@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 7,
+      "2025-05-14": 1016,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 7,
+      "2025-05-14": 1016,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -186,18 +186,20 @@
     "url": "$AMC_INTEGRATION_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amc-integration-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 872,
-    "timeWeek": 881,
-    "timeMonth": 984,
-    "timeYear": 970,
-    "dailyMinutesDown": {}
+    "time": 972,
+    "timeDay": 899,
+    "timeWeek": 893,
+    "timeMonth": 986,
+    "timeYear": 972,
+    "dailyMinutesDown": {
+      "2025-05-14": 1
+    }
   },
   {
     "name": "TRACKING (Server)",
@@ -216,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 7,
+      "2025-05-14": 1016,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
