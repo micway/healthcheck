@@ -4,18 +4,20 @@
     "url": "$PALLET_LOADER_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pallet-loader-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1489,
-    "timeDay": 1041,
-    "timeWeek": 1848,
-    "timeMonth": 2013,
-    "timeYear": 1489,
-    "dailyMinutesDown": {}
+    "time": 1481,
+    "timeDay": 987,
+    "timeWeek": 1734,
+    "timeMonth": 1981,
+    "timeYear": 1481,
+    "dailyMinutesDown": {
+      "2025-06-04": 4
+    }
   },
   {
     "name": "TMS (Website)",
@@ -72,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 7,
+      "2025-06-04": 1288,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -147,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 7,
+      "2025-06-04": 1288,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -262,7 +264,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 7,
+      "2025-06-04": 1288,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
