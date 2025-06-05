@@ -4,19 +4,19 @@
     "url": "$PALLET_LOADER_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pallet-loader-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1449,
-    "timeDay": 979,
-    "timeWeek": 1428,
-    "timeMonth": 1879,
-    "timeYear": 1449,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1441,
+    "timeDay": 966,
+    "timeWeek": 1387,
+    "timeMonth": 1853,
+    "timeYear": 1441,
     "dailyMinutesDown": {
-      "2025-06-05": 4
+      "2025-06-05": 13
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 482,
+      "2025-06-05": 495,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 482,
+      "2025-06-05": 495,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-05": 482,
+      "2025-06-05": 495,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
