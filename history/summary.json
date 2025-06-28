@@ -40,11 +40,11 @@
     "url": "$TMS_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tms-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1166,
     "timeDay": 1349,
@@ -52,6 +52,7 @@
     "timeMonth": 1008,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2025-06-28": 4,
       "2025-04-24": 34
     }
   },
@@ -72,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 7,
+      "2025-06-28": 1273,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -171,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 7,
+      "2025-06-28": 1273,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -310,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 7,
+      "2025-06-28": 1273,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
