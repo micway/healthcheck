@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 1062,
+      "2025-08-15": 1069,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 1062,
+      "2025-08-15": 1069,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 1062,
+      "2025-08-15": 1069,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -542,19 +542,19 @@
     "url": "$CRON_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cron-reports-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 1058,
-    "timeWeek": 864,
-    "timeMonth": 934,
-    "timeYear": 923,
+    "time": 924,
+    "timeDay": 1034,
+    "timeWeek": 882,
+    "timeMonth": 936,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 7
     }
   },
   {
