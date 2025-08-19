@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 1073,
+      "2025-08-19": 1152,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -223,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 1073,
+      "2025-08-19": 1152,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -415,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 1073,
+      "2025-08-19": 1152,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -556,18 +556,16 @@
     "slug": "cron-reports-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
     "timeDay": 999,
     "timeWeek": 947,
     "timeMonth": 913,
     "timeYear": 924,
-    "dailyMinutesDown": {
-      "2025-08-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICWAY (Website)",
@@ -592,16 +590,16 @@
     "url": "https://outlook.office365.com/owa/",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.11%",
+    "uptimeDay": "94.10%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.79%",
     "time": 259,
-    "timeDay": 206,
-    "timeWeek": 216,
-    "timeMonth": 223,
+    "timeDay": 203,
+    "timeWeek": 215,
+    "timeMonth": 222,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2025-08-19": 85,
