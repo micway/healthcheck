@@ -1,7 +1,7 @@
 url: https://outlook.office365.com/owa/
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2025-08-25T21:50:35.656Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-08-25T22:51:28.099Z
 startTime: 2025-04-09T19:59:17.274Z
 generator: Upptime <https://github.com/upptime/upptime>
