@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1042,
+      "2025-08-25": 1063,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1042,
+      "2025-08-25": 1063,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1042,
+      "2025-08-25": 1063,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -572,9 +572,9 @@
     "url": "$CRON_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cron-reports-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -583,7 +583,9 @@
     "timeWeek": 863,
     "timeMonth": 912,
     "timeYear": 919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "MICWAY (Website)",
@@ -610,17 +612,17 @@
     "slug": "outlook",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "88.78%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "88.89%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "99.28%",
     "time": 244,
-    "timeDay": 250,
+    "timeDay": 249,
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-08-25": 54,
+      "2025-08-25": 43,
       "2025-08-24": 118,
       "2025-08-23": 74,
       "2025-08-22": 32,
