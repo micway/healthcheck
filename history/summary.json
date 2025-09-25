@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
+      "2025-09-25": 157,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
+      "2025-09-25": 157,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
+      "2025-09-25": 157,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -703,18 +703,19 @@
     "url": "https://outlook.office365.com/owa/",
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "93.63%",
-    "uptimeYear": "98.85%",
-    "time": 228,
-    "timeDay": 187,
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "98.86%",
+    "time": 227,
+    "timeDay": 185,
     "timeWeek": 225,
     "timeMonth": 221,
-    "timeYear": 228,
+    "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-24": 77,
       "2025-09-23": 17,
       "2025-09-22": 92,
@@ -736,7 +737,7 @@
       "2025-09-06": 248,
       "2025-09-05": 243,
       "2025-09-04": 239,
-      "2025-09-03": 20
+      "2025-09-03": 3
     }
   },
   {
