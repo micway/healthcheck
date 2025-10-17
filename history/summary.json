@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 676,
+      "2025-10-17": 687,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 676,
+      "2025-10-17": 687,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -533,7 +533,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 676,
+      "2025-10-17": 687,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -772,8 +772,8 @@
     "status": "down",
     "uptime": "97.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.20%",
-    "uptimeMonth": "83.21%",
+    "uptimeWeek": "44.10%",
+    "uptimeMonth": "83.19%",
     "uptimeYear": "97.32%",
     "time": 227,
     "timeDay": 114,
@@ -781,7 +781,7 @@
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-10-17": 676,
+      "2025-10-17": 687,
       "2025-10-16": 1440,
       "2025-10-15": 1430,
       "2025-10-14": 1430,
@@ -814,19 +814,19 @@
     "url": "https://login.microsoftonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.microsoftonline.com.ico",
     "slug": "microsoft-authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 1560,
-    "timeWeek": 632,
-    "timeMonth": 355,
-    "timeYear": 235,
+    "time": 234,
+    "timeDay": 1113,
+    "timeWeek": 586,
+    "timeMonth": 350,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-10-17": 0
+      "2025-10-17": 10
     }
   },
   {
