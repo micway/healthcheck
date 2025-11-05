@@ -1,7 +1,7 @@
 url: $AMC_INTEGRATION_API_PROD_HEALTH_URL
 status: up
 code: 200
-responseTime: 1004
-lastUpdated: 2025-11-04T23:08:49.142Z
+responseTime: 844
+lastUpdated: 2025-11-05T23:08:50.395Z
 startTime: 2025-04-10T14:34:40.947Z
 generator: Upptime <https://github.com/upptime/upptime>
