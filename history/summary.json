@@ -42,9 +42,9 @@
     "slug": "tms-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1084,
     "timeDay": 3836,
@@ -52,7 +52,6 @@
     "timeMonth": 1222,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2025-11-06": 7,
       "2025-04-24": 34
     }
   },
@@ -73,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 457,
+      "2025-11-06": 626,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -303,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 457,
+      "2025-11-06": 626,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -521,10 +520,10 @@
     "url": "$BUNDY_CLOCK_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bundy-clock-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
@@ -532,7 +531,9 @@
     "timeWeek": 947,
     "timeMonth": 903,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-06": 1
+    }
   },
   {
     "name": "AMC INTEGRATION (API)",
@@ -574,7 +575,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 457,
+      "2025-11-06": 626,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -831,18 +832,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "88.19%",
+    "uptime": "88.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.07%",
-    "uptimeMonth": "20.87%",
-    "uptimeYear": "88.19%",
+    "uptimeMonth": "20.49%",
+    "uptimeYear": "88.14%",
     "time": 227,
     "timeDay": 129,
     "timeWeek": 176,
     "timeMonth": 241,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-11-06": 458,
+      "2025-11-06": 627,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
