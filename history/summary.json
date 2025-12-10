@@ -42,9 +42,9 @@
     "slug": "tms-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1066,
     "timeDay": 865,
@@ -52,7 +52,7 @@
     "timeMonth": 951,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2025-12-10": 4,
+      "2025-12-10": 15,
       "2025-04-24": 34
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 413,
+      "2025-12-10": 424,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 413,
+      "2025-12-10": 424,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -642,7 +642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 413,
+      "2025-12-10": 424,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -894,9 +894,9 @@
     "url": "$CRON_API_PROD_HEALTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cron-reports-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -906,6 +906,7 @@
     "timeMonth": 954,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-08-25": 19
     }
   },
@@ -944,7 +945,7 @@
     "timeMonth": 152,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-12-10": 413,
+      "2025-12-10": 424,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
