@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 392,
+      "2026-01-11": 410,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 392,
+      "2026-01-11": 410,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 392,
+      "2026-01-11": 410,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1042,7 +1042,7 @@
     "timeMonth": 174,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-01-11": 392,
+      "2026-01-11": 410,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1195,19 +1195,19 @@
     "url": "https://azure.status.microsoft",
     "icon": "https://icons.duckduckgo.com/ip3/azure.status.microsoft.ico",
     "slug": "azure",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 348,
-    "timeWeek": 474,
-    "timeMonth": 518,
-    "timeYear": 460,
+    "time": 459,
+    "timeDay": 314,
+    "timeWeek": 449,
+    "timeMonth": 510,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 19
     }
   }
 ]
