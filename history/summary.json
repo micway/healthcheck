@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 9,
+      "2026-01-11": 392,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 9,
+      "2026-01-11": 392,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 9,
+      "2026-01-11": 392,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1031,18 +1031,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "67.21%",
+    "uptime": "67.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.21%",
+    "uptimeYear": "67.15%",
     "time": 226,
     "timeDay": 79,
     "timeWeek": 152,
     "timeMonth": 174,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-01-11": 9,
+      "2026-01-11": 392,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1195,17 +1195,19 @@
     "url": "https://azure.status.microsoft",
     "icon": "https://icons.duckduckgo.com/ip3/azure.status.microsoft.ico",
     "slug": "azure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 465,
-    "timeWeek": 509,
-    "timeMonth": 527,
-    "timeYear": 461,
-    "dailyMinutesDown": {}
+    "time": 460,
+    "timeDay": 348,
+    "timeWeek": 474,
+    "timeMonth": 518,
+    "timeYear": 460,
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   }
 ]
