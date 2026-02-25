@@ -1,7 +1,7 @@
 url: https://login.microsoftonline.com
-status: down
-code: 503
-responseTime: 2654
-lastUpdated: 2026-02-25T21:42:35.840Z
+status: up
+code: 200
+responseTime: 192
+lastUpdated: 2026-02-25T21:56:53.774Z
 startTime: 2025-04-09T19:59:19.529Z
 generator: Upptime <https://github.com/upptime/upptime>
