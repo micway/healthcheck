@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 12,
+      "2026-02-25": 1303,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -415,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 12,
+      "2026-02-25": 1303,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-25": 12,
+      "2026-02-25": 1303,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -1169,18 +1169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "57.80%",
+    "uptime": "57.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.80%",
+    "uptimeYear": "57.63%",
     "time": 225,
     "timeDay": 153,
     "timeWeek": 109,
     "timeMonth": 137,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-02-25": 12,
+      "2026-02-25": 1303,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -1342,18 +1342,20 @@
     "url": "https://login.microsoftonline.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.microsoftonline.com.ico",
     "slug": "microsoft-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 406,
-    "timeWeek": 456,
-    "timeMonth": 394,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 301,
+    "timeDay": 1530,
+    "timeWeek": 731,
+    "timeMonth": 463,
+    "timeYear": 301,
+    "dailyMinutesDown": {
+      "2026-02-25": 1
+    }
   },
   {
     "name": "OFFICE 365",
@@ -1389,7 +1391,7 @@
     "time": 458,
     "timeDay": 215,
     "timeWeek": 416,
-    "timeMonth": 466,
+    "timeMonth": 481,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2026-01-11": 19
