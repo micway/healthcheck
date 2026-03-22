@@ -1,7 +1,7 @@
 url: https://azure.status.microsoft
-status: down
-code: 403
-responseTime: 51
-lastUpdated: 2026-03-22T23:17:39.958Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2026-03-22T23:31:48.812Z
 startTime: 2025-04-09T19:59:20.612Z
 generator: Upptime <https://github.com/upptime/upptime>
