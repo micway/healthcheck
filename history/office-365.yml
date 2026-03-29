@@ -1,7 +1,7 @@
 url: https://graph.microsoft.com
-status: down
-code: 503
-responseTime: 174
-lastUpdated: 2026-03-29T16:02:54.882Z
+status: up
+code: 200
+responseTime: 162
+lastUpdated: 2026-03-29T16:53:05.433Z
 startTime: 2025-04-09T19:59:20.091Z
 generator: Upptime <https://github.com/upptime/upptime>
