@@ -1,7 +1,7 @@
 url: $BUNDY_CLOCK_API_PROD_HEALTH_URL
 status: up
 code: 200
-responseTime: 1039
-lastUpdated: 2026-05-25T23:36:28.743Z
+responseTime: 960
+lastUpdated: 2026-05-26T23:36:56.365Z
 startTime: 2025-04-10T14:34:39.536Z
 generator: Upptime <https://github.com/upptime/upptime>
