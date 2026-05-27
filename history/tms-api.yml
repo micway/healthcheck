@@ -1,7 +1,7 @@
 url: $TMS_API_PROD_HEALTH_URL
 status: up
 code: 204
-responseTime: 1074
-lastUpdated: 2026-05-26T23:28:41.127Z
+responseTime: 906
+lastUpdated: 2026-05-27T23:30:59.902Z
 startTime: 2025-04-10T14:32:02.169Z
 generator: Upptime <https://github.com/upptime/upptime>
