@@ -1,7 +1,7 @@
 url: $CRON_API_PROD_HEALTH_URL
 status: up
 code: 200
-responseTime: 596
-lastUpdated: 2026-06-15T23:57:41.301Z
+responseTime: 1021
+lastUpdated: 2026-06-28T23:47:46.976Z
 startTime: 2025-04-10T14:35:59.968Z
 generator: Upptime <https://github.com/upptime/upptime>
