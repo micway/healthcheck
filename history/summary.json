@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1011,
     "timeDay": 0,
-    "timeWeek": 1136,
+    "timeWeek": 0,
     "timeMonth": 1011,
     "timeYear": 911,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 0,
-    "timeWeek": 240,
+    "timeWeek": 0,
     "timeMonth": 199,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.92%",
     "time": 1007,
     "timeDay": 0,
-    "timeWeek": 1103,
+    "timeWeek": 0,
     "timeMonth": 974,
     "timeYear": 970,
     "dailyMinutesDown": {
@@ -75,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 120,
+      "2026-07-22": 127,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -438,8 +439,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -459,7 +459,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 120,
+      "2026-07-22": 127,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -822,8 +823,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -839,7 +839,7 @@
     "uptimeYear": "99.93%",
     "time": 902,
     "timeDay": 0,
-    "timeWeek": 1006,
+    "timeWeek": 0,
     "timeMonth": 989,
     "timeYear": 893,
     "dailyMinutesDown": {
@@ -860,7 +860,7 @@
     "uptimeYear": "99.96%",
     "time": 941,
     "timeDay": 0,
-    "timeWeek": 1003,
+    "timeWeek": 0,
     "timeMonth": 927,
     "timeYear": 883,
     "dailyMinutesDown": {
@@ -887,7 +887,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 120,
+      "2026-07-22": 127,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1250,8 +1251,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -1267,7 +1267,7 @@
     "uptimeYear": "99.92%",
     "time": 907,
     "timeDay": 0,
-    "timeWeek": 1219,
+    "timeWeek": 0,
     "timeMonth": 1042,
     "timeYear": 901,
     "dailyMinutesDown": {
@@ -1289,7 +1289,7 @@
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 0,
-    "timeWeek": 168,
+    "timeWeek": 0,
     "timeMonth": 255,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -1300,14 +1300,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/outlook.office365.com.ico",
     "slug": "outlook",
     "status": "down",
-    "uptime": "39.73%",
+    "uptime": "39.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.84%",
+    "uptimeYear": "22.57%",
     "time": 224,
     "timeDay": 0,
-    "timeWeek": 193,
+    "timeWeek": 0,
     "timeMonth": 154,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -1351,7 +1351,8 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2026-07-21": 121,
+      "2026-07-22": 127,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1627,9 +1628,9 @@
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 0,
-    "timeWeek": 148,
+    "timeWeek": 0,
     "timeMonth": 358,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   },
   {
@@ -1645,7 +1646,7 @@
     "uptimeYear": "99.75%",
     "time": 349,
     "timeDay": 0,
-    "timeWeek": 321,
+    "timeWeek": 0,
     "timeMonth": 281,
     "timeYear": 372,
     "dailyMinutesDown": {
@@ -1668,9 +1669,9 @@
     "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 0,
-    "timeWeek": 355,
+    "timeWeek": 0,
     "timeMonth": 335,
-    "timeYear": 447,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2026-01-11": 19
     }
